@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Dan"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Shirtless"
+      }
+    ],
+    "description": "The fearless leader.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWAzLFLS17H35tNvT2w7oVeqeyBQuE3SREcnRwiL7LK66",
+    "name": "Dan No.1"
+  }

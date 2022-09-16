@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Dan"
+      },
+      {
+        "trait_type": "Status",
+        "value": "Sad Dan"
+      }
+    ],
+    "description": "The fearless leader.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmR4v8PXpao6h2i1Z7kPHp298T3bsD4TE6RfsfcFZL3Qse",
+    "name": "Dan No.2"
+  }
